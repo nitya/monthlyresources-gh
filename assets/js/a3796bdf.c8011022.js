@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[838],{1700:e=>{e.exports=JSON.parse('{"label":"ai-ml","permalink":"/monthly-resources-gh/tags/ai-ml","allTagsPath":"/monthly-resources-gh/tags","count":1}')}}]);
