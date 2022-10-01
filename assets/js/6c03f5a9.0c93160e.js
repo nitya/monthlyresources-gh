@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[3621],{2553:s=>{s.exports=JSON.parse('{"label":"visual-studio","permalink":"/monthly-resources-gh/tags/visual-studio","allTagsPath":"/monthly-resources-gh/tags","count":1}')}}]);

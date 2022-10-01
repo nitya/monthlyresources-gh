@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[8087],{8155:e=>{e.exports=JSON.parse('{"label":"azure","permalink":"/monthlyresources-gh/tags/azure","allTagsPath":"/monthlyresources-gh/tags","count":4}')}}]);

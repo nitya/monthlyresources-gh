@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[598],{3538:s=>{s.exports=JSON.parse('{"label":"msbuild","permalink":"/monthlyresources-gh/tags/msbuild","allTagsPath":"/monthlyresources-gh/tags","count":2}')}}]);

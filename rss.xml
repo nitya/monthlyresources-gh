@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>This Month In Microsoft Dev News Blog</title>
-        <link>https://nitya.github.io/monthly-resources-gh/</link>
+        <link>https://nitya.github.io/monthlyresources-gh/</link>
         <description>This Month In Microsoft Dev News Blog</description>
         <lastBuildDate>Sat, 01 Oct 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,7 +10,7 @@
         <language>en</language>
         <item>
             <title><![CDATA[Oct 2022 - Serverless on Azure]]></title>
-            <link>https://nitya.github.io/monthly-resources-gh/2022-oct-serverless-apps</link>
+            <link>https://nitya.github.io/monthlyresources-gh/2022-oct-serverless-apps</link>
             <guid>2022-oct-serverless-apps</guid>
             <pubDate>Sat, 01 Oct 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Serverless Applications]]></description>
@@ -22,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[Sep 2022 - Java at MSFT & Azure]]></title>
-            <link>https://nitya.github.io/monthly-resources-gh/2022-java-azure-microsoft</link>
+            <link>https://nitya.github.io/monthlyresources-gh/2022-java-azure-microsoft</link>
             <guid>2022-java-azure-microsoft</guid>
             <pubDate>Thu, 01 Sep 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[---]]></description>
@@ -34,7 +34,7 @@
         </item>
         <item>
             <title><![CDATA[Aug 2022 - DevSecOps]]></title>
-            <link>https://nitya.github.io/monthly-resources-gh/2022-aug-serverless-apps</link>
+            <link>https://nitya.github.io/monthlyresources-gh/2022-aug-serverless-apps</link>
             <guid>2022-aug-serverless-apps</guid>
             <pubDate>Mon, 01 Aug 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[---]]></description>
@@ -44,7 +44,7 @@
         </item>
         <item>
             <title><![CDATA[Jul 2022 - Kubernetes]]></title>
-            <link>https://nitya.github.io/monthly-resources-gh/2022-jul-kubernetes</link>
+            <link>https://nitya.github.io/monthlyresources-gh/2022-jul-kubernetes</link>
             <guid>2022-jul-kubernetes</guid>
             <pubDate>Fri, 01 Jul 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[---]]></description>
@@ -54,7 +54,7 @@
         </item>
         <item>
             <title><![CDATA[Jun 2022 - Best of MSBuild]]></title>
-            <link>https://nitya.github.io/monthly-resources-gh/2022-jun-msbuild</link>
+            <link>https://nitya.github.io/monthlyresources-gh/2022-jun-msbuild</link>
             <guid>2022-jun-msbuild</guid>
             <pubDate>Wed, 01 Jun 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[---]]></description>
@@ -64,7 +64,7 @@
         </item>
         <item>
             <title><![CDATA[May 2022 - Java on Azure]]></title>
-            <link>https://nitya.github.io/monthly-resources-gh/2022-may-java</link>
+            <link>https://nitya.github.io/monthlyresources-gh/2022-may-java</link>
             <guid>2022-may-java</guid>
             <pubDate>Sun, 01 May 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[---]]></description>
@@ -74,7 +74,7 @@
         </item>
         <item>
             <title><![CDATA[Apr 2022 - Java on Azure]]></title>
-            <link>https://nitya.github.io/monthly-resources-gh/2022-apr-java</link>
+            <link>https://nitya.github.io/monthlyresources-gh/2022-apr-java</link>
             <guid>2022-apr-java</guid>
             <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[---]]></description>
@@ -84,7 +84,7 @@
         </item>
         <item>
             <title><![CDATA[Mar 2022 - AI, ML & Mixed Reality]]></title>
-            <link>https://nitya.github.io/monthly-resources-gh/2022-mar-aiml</link>
+            <link>https://nitya.github.io/monthlyresources-gh/2022-mar-aiml</link>
             <guid>2022-mar-aiml</guid>
             <pubDate>Tue, 01 Mar 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[---]]></description>
@@ -95,7 +95,7 @@
         </item>
         <item>
             <title><![CDATA[Feb 2022 - Low Code & Power Apps]]></title>
-            <link>https://nitya.github.io/monthly-resources-gh/2022-feb-low-code</link>
+            <link>https://nitya.github.io/monthlyresources-gh/2022-feb-low-code</link>
             <guid>2022-feb-low-code</guid>
             <pubDate>Tue, 01 Feb 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[---]]></description>
@@ -106,7 +106,7 @@
         </item>
         <item>
             <title><![CDATA[Jan 2022 - DevOps & DevSecOps]]></title>
-            <link>https://nitya.github.io/monthly-resources-gh/2022-jan-devops-devsecops</link>
+            <link>https://nitya.github.io/monthlyresources-gh/2022-jan-devops-devsecops</link>
             <guid>2022-jan-devops-devsecops</guid>
             <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[---]]></description>
@@ -117,7 +117,7 @@
         </item>
         <item>
             <title><![CDATA[Dec 2021 - Best of MSIgnite]]></title>
-            <link>https://nitya.github.io/monthly-resources-gh/2021-dec-msignite</link>
+            <link>https://nitya.github.io/monthlyresources-gh/2021-dec-msignite</link>
             <guid>2021-dec-msignite</guid>
             <pubDate>Wed, 01 Dec 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[---]]></description>
@@ -127,7 +127,7 @@
         </item>
         <item>
             <title><![CDATA[Nov 2021 - .NET 6 & VS 2022]]></title>
-            <link>https://nitya.github.io/monthly-resources-gh/2021-nov-dotnet-visualstudio</link>
+            <link>https://nitya.github.io/monthlyresources-gh/2021-nov-dotnet-visualstudio</link>
             <guid>2021-nov-dotnet-visualstudio</guid>
             <pubDate>Mon, 01 Nov 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[---]]></description>
@@ -138,7 +138,7 @@
         </item>
         <item>
             <title><![CDATA[Oct 2021 - Kubernetes on Azure]]></title>
-            <link>https://nitya.github.io/monthly-resources-gh/2021-oct-cloudnative-apps</link>
+            <link>https://nitya.github.io/monthlyresources-gh/2021-oct-cloudnative-apps</link>
             <guid>2021-oct-cloudnative-apps</guid>
             <pubDate>Fri, 01 Oct 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Hi everyone – This month, we feature ways to optimize your Kubernetes deployments with Kubernetes on Azure. Explore the latest in Kubernetes and AKS demos, integrations and more from Microsoft SMEs.]]></description>
@@ -150,7 +150,7 @@
         </item>
         <item>
             <title><![CDATA[Sep 2021 - Java on Azure]]></title>
-            <link>https://nitya.github.io/monthly-resources-gh/2021-sep-java-on-azure</link>
+            <link>https://nitya.github.io/monthlyresources-gh/2021-sep-java-on-azure</link>
             <guid>2021-sep-java-on-azure</guid>
             <pubDate>Wed, 01 Sep 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[---]]></description>
@@ -161,7 +161,7 @@
         </item>
         <item>
             <title><![CDATA[Jul 2021 - IoT & DevSecOps]]></title>
-            <link>https://nitya.github.io/monthly-resources-gh/2021-aug-iot-devsecops</link>
+            <link>https://nitya.github.io/monthlyresources-gh/2021-aug-iot-devsecops</link>
             <guid>2021-aug-iot-devsecops</guid>
             <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[---]]></description>
@@ -172,7 +172,7 @@
         </item>
         <item>
             <title><![CDATA[Jul 2021 - Cloud Native Apps]]></title>
-            <link>https://nitya.github.io/monthly-resources-gh/2021-july-cloudnative-apps</link>
+            <link>https://nitya.github.io/monthlyresources-gh/2021-july-cloudnative-apps</link>
             <guid>2021-july-cloudnative-apps</guid>
             <pubDate>Thu, 01 Jul 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[---]]></description>
@@ -183,7 +183,7 @@
         </item>
         <item>
             <title><![CDATA[Jun 2021 - Best of MSBuild]]></title>
-            <link>https://nitya.github.io/monthly-resources-gh/2021-june-msbuild</link>
+            <link>https://nitya.github.io/monthlyresources-gh/2021-june-msbuild</link>
             <guid>2021-june-msbuild</guid>
             <pubDate>Tue, 01 Jun 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Hi everyone - Microsoft Build 2021 brought together the various technologies that empower you as a developer to build the next generation of applications. Our 'monthly resources' bring you the best of Microsoft Build 2021.]]></description>
@@ -193,7 +193,7 @@
         </item>
         <item>
             <title><![CDATA[May 2021 - Low Code Apps]]></title>
-            <link>https://nitya.github.io/monthly-resources-gh/2021-may-low-code</link>
+            <link>https://nitya.github.io/monthlyresources-gh/2021-may-low-code</link>
             <guid>2021-may-low-code</guid>
             <pubDate>Sat, 01 May 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[We’re excited to offer new ways for you to dive deeper into Power Apps and learn how to scale your work through low-code and fusion teams. To get you started, we have released a new low code learning path and we'd love your feedback.]]></description>

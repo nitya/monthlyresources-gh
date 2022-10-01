@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[6340],{1072:e=>{e.exports=JSON.parse('{"label":"low-code","permalink":"/monthlyresources-gh/tags/low-code","allTagsPath":"/monthlyresources-gh/tags","count":2}')}}]);

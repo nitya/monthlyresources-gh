@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[3886],{7750:e=>{e.exports=JSON.parse('{"label":"feb","permalink":"/monthlyresources-gh/tags/feb","allTagsPath":"/monthlyresources-gh/tags","count":1}')}}]);

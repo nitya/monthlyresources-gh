@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[4713],{3578:e=>{e.exports=JSON.parse('{"label":"mixed-reality","permalink":"/monthly-resources-gh/tags/mixed-reality","allTagsPath":"/monthly-resources-gh/tags","count":1}')}}]);

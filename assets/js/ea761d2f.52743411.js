@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[7788],{9038:e=>{e.exports=JSON.parse('{"label":"serverless","permalink":"/monthlyresources-gh/tags/serverless","allTagsPath":"/monthlyresources-gh/tags","count":1}')}}]);

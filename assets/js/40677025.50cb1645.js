@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[5594],{9800:e=>{e.exports=JSON.parse('{"label":"devsecops","permalink":"/monthly-resources-gh/tags/devsecops","allTagsPath":"/monthly-resources-gh/tags","count":3}')}}]);

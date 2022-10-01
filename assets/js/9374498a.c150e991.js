@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[9053],{4526:e=>{e.exports=JSON.parse('{"label":"power apps","permalink":"/monthlyresources-gh/tags/power-apps","allTagsPath":"/monthlyresources-gh/tags","count":1}')}}]);
