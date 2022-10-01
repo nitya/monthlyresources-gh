@@ -23,7 +23,7 @@ const config = {
 
   // CONIFIG: Used for GitHub Pages
   url: 'https://nitya.github.io',
-  baseUrl: '/monthly-resources-gh/',
+  baseUrl: '/monthlyresources-gh/',
   organizationName: 'nitya', 
   projectName: 'monthly-resources-gh',
   deploymentBranch: 'gh-pages',

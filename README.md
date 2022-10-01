@@ -119,3 +119,10 @@ ___
  
 
 :bookmark: ***Sign up for Microsoft Tech News** - the monthly newsletter for developers and tech professionals, tailored to your preferences. [Click here to sign up.](https://developer.microsoft.com/Newsletter/?ocid=AID3045262)* 
+
+
+---
+
+[![Deploy to GitHub Pages](https://github.com/nitya/monthlyresources-gh/actions/workflows/deploy-ghpages.yml/badge.svg)](https://github.com/nitya/monthlyresources-gh/actions/workflows/deploy-ghpages.yml)
+
+[![pages-build-deployment](https://github.com/nitya/monthlyresources-gh/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/nitya/monthlyresources-gh/actions/workflows/pages/pages-build-deployment)
