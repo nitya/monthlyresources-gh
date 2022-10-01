@@ -123,6 +123,8 @@ ___
 
 ---
 
-[![Deploy to GitHub Pages](https://github.com/nitya/monthlyresources-gh/actions/workflows/deploy-ghpages.yml/badge.svg)](https://github.com/nitya/monthlyresources-gh/actions/workflows/deploy-ghpages.yml)
+> Builds gh-pages branch from Docusaurus source
+[![Deploy to GitHub Pages](https://github.com/nitya/monthlyresources-gh/actions/workflows/deploy-ghpages.yml/badge.svg?branch=main)](https://github.com/nitya/monthlyresources-gh/actions/workflows/deploy-ghpages.yml)
 
-[![pages-build-deployment](https://github.com/nitya/monthlyresources-gh/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/nitya/monthlyresources-gh/actions/workflows/pages/pages-build-deployment)
+> Deploys site from gh-pages branch
+[![pages-build-deployment](https://github.com/nitya/monthlyresources-gh/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/nitya/monthlyresources-gh/actions/workflows/pages/pages-build-deployment)
