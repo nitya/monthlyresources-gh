@@ -6,10 +6,10 @@ tags: [kubernetes, azure, apps, oct]
 draft: false
 ---
 
-
 :::tip RESOURCES FOR DEVELOPERS
 :::
 
+---
 
 :wave:**Hi everyone** – This month, we feature ways to optimize your Kubernetes deployments with Kubernetes on Azure. Explore the latest in Kubernetes and AKS demos, integrations and more from Microsoft SMEs. 
 

@@ -102,6 +102,7 @@ const config = {
           src: '/img/logo.svg',
         },
         items: [
+          {to: '/rss', label: 'RSS Feed', position: 'right'},
           {to: '/landing', label: 'Home', position: 'right'},
         ],
       },
