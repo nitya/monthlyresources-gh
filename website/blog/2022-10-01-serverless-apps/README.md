@@ -114,7 +114,7 @@ The Azure Container Apps Product Group covers serverless containers purpose-buil
 ___  
 
  
-:::info : **Sign up for Microsoft Tech News** 
+:::tip : **Sign up for Microsoft Tech News** 
 
 A monthly newsletter for developers and tech professionals, tailored to your preferences. ✨ [**🔖 Click here to sign up**](https://developer.microsoft.com/Newsletter/?ocid=AID3045262)✨ 
 :::
